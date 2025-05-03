@@ -1,6 +1,6 @@
 {
-  "name": "theme-generator",
-  "version": "1.0.0",
+  "name": "@elrond25/theme-generator",
+  "version": "1.0.1",
   "type": "module",
   "scripts": {
     "build": "tsx index.ts theme.js src/theme.css"
@@ -11,5 +11,17 @@
   },
   "dependencies": {
     "commander": "^13.1.0"
-  }
+  },
+  "description": "This package generates a CSS file from a theme object.",
+  "main": "theme.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caraya/theme-generator.git"
+  },
+  "author": "Carlos Araya <carlos.araya@gmail.com> (https://publishing-project.rivendellweb.net/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/caraya/theme-generator/issues"
+  },
+  "homepage": "https://github.com/caraya/theme-generator#readme"
 }
