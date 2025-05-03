@@ -1,0 +1,15 @@
+{
+  "name": "theme-generator",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "tsx index.ts theme.js src/theme.css"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.3",
+    "tsx": "^3.12.7"
+  },
+  "dependencies": {
+    "commander": "^13.1.0"
+  }
+}
