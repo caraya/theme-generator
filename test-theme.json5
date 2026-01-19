@@ -1,0 +1,11 @@
+// JSON5 test: uses unquoted keys, single quotes, and trailing commas
+{
+  color: {
+    DEFAULT: '#0f0',
+    faded: '#8f8',
+  },
+  spacing: {
+    small: '6px',
+    large: '20px',
+  },
+}

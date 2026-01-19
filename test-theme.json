@@ -1,0 +1,10 @@
+{
+  "color": {
+    "DEFAULT": "#111",
+    "light": "#333"
+  },
+  "space": {
+    "small": "4px",
+    "large": "16px"
+  }
+}

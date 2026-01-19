@@ -1,4 +1,4 @@
-const theme = {
+export const theme = {
 	color: {
 		brand: {
 			primary: {
@@ -20,4 +20,3 @@ const theme = {
 	}
 };
 
-export default theme

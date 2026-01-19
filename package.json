@@ -10,7 +10,8 @@
     "tsx": "^4.0.0"
   },
   "dependencies": {
-    "commander": "^14.0.0"
+    "commander": "^14.0.0",
+    "json5": "^2.2.3"
   },
   "description": "This package generates a CSS file from a theme object.",
   "main": "theme.js",
